@@ -25,6 +25,9 @@ useHead({
   script: [{
     src: "https://www.googletagmanager.com/gtag/js?id=GTM-5RG8GNXB",
     async: true
+  },{
+    src: "https://f.convertkit.com/ckjs/ck.5.js",
+    async: true
   }],
   link: [{
     rel: "stylesheet",
