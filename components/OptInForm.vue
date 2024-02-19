@@ -12,15 +12,17 @@
     <div data-style="clean" class="">
       <ul class="" data-element="errors" data-group="alert"></ul>
       <div data-element="fields" data-stacked="false" class="">
-        <div class="ma2">Get the weekly email full of actionable insights you can use in your own software company.</div>
-        <div class="">
-          <input class="mv1 pv1 b--gray b--solid" name="email_address" aria-label="Your best email" placeholder="Your best email" required="" type="email">
+        <div class="mv3 f3">Get the weekly email full of actionable insights you can use in your own software company.</div>
+        <div class="mv3">
+          <div class="">
+            <input class="mv1 pv2 ph3 tc b--gray b--solid f3" name="email_address" aria-label="Your best email" placeholder="Your best email" required="" type="email">
+          </div>
+          <button data-element="submit" class="b--none bg-black white ph3 pv2 br1 mv1 pointer fade">
+          <div class="formkit-spinner">
+            <div></div><div></div><div></div>
+          </div>
+          <span class="f3">Subscribe</span></button>
         </div>
-        <button data-element="submit" class="b--none bg-black white ph3 pv2 br1 mv1 pointer fade">
-        <div class="formkit-spinner">
-          <div></div><div></div><div></div>
-        </div>
-        <span class="">Subscribe</span></button>
       </div>
     </div>
   </form>
