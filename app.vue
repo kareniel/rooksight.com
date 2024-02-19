@@ -20,7 +20,7 @@ useHead({
     content: "Cybersecurity, startup, SaaS, B2B, compliance, SOC 2, ISO 27001",
   }, {
     name: 'author',
-    content: "Rooksight Advisory",
+    content: "Rooksight",
   }],
   script: [{
     src: "https://www.googletagmanager.com/gtag/js?id=GTM-5RG8GNXB",
@@ -30,6 +30,9 @@ useHead({
     async: true
   }],
   link: [{
+    rel: "stylesheet",
+    href: "https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"
+  }, {
     rel: "stylesheet",
     href: "/css/style.css"
   }]

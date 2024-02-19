@@ -1,5 +1,5 @@
 <template>
-  <header>
-    <h1>Rooksight</h1>
+  <header class="">
+    <img class="h3" src="/Rooksight.svg"/>
   </header>
 </template>
