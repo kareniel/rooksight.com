@@ -1,7 +1,6 @@
----
-layout: main
----
-
 # Fix cloud security
 
-<OptInForm/>
+::OptInForm
+::
+
+[](/answers/studying-for-cissp)

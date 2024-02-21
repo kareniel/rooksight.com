@@ -2,7 +2,7 @@
   <form 
     action="https://app.convertkit.com/forms/6212555/subscriptions" 
     method="post" 
-    class="mv3" 
+    class="mv3 pa1" 
     data-sv-form="6212555" 
     data-uid="54800736ef" 
     data-format="inline" 
