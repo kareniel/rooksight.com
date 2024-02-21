@@ -1,10 +1,10 @@
-<template>  
-  <NuxtLayout>
+<template>
+  <div>
     <NuxtPage />
-  </NuxtLayout>
+  </div>
 </template>
 
-<script setup lang="ts">
+<script setup>
 const title = ref('Rooksight');
 
 useHead({

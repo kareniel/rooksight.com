@@ -1,8 +1,8 @@
 <template>
   <form 
     action="https://app.convertkit.com/forms/6212555/subscriptions" 
-    class="seva-form formkit-form mv3" 
     method="post" 
+    class="mv3" 
     data-sv-form="6212555" 
     data-uid="54800736ef" 
     data-format="inline" 
@@ -15,7 +15,7 @@
         <div class="mv3 f3">Get the weekly email full of actionable insights you can use in your own software company.</div>
         <div class="mv3">
           <div class="">
-            <input class="mv1 pv2 ph3 tc b--gray b--solid f3" name="email_address" aria-label="Your best email" placeholder="Your best email" required="" type="email">
+            <input class="mv1 pv2 ph3 b--gray b--solid f3" name="email_address" aria-label="Your best email" placeholder="Your best email" required="" type="email">
           </div>
           <button data-element="submit" class="b--none bg-black white ph3 pv2 br1 mv1 pointer fade">
           <div class="formkit-spinner">
