@@ -1,4 +1,4 @@
-# Fix cloud security
+# Prove client data is safe
 
 ::OptInForm
 ::
